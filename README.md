@@ -1,2 +1,2 @@
 # MIB
-Machine Learning Internet of Thing Business Intelligence integration (MIB)
+Machine Learning Internet of Thing Business Intelligence integration with Azure
